@@ -1,8 +1,10 @@
 https://github.com/Khokholeva/git_lab1_lesson2
-отличие в readme:
+СЂР°Р·Р»РёС‡РёСЏ РІ readme:
  demo - .
 master -  with nice buttons on his jacket (buttons branch)
-10 коммитов - 4 моих
+11 РєРѕРјРјРёС‚РѕРІ - 5 РјРѕРёС… (СѓР¶Рµ 12/6 РјРѕРёС…, СЏ РёСЃРїСЂР°РІРёР»Р° hometask)
+hometask fixed
+hometask added
 Merge branch 'boots_buttons'
 Merge remote-tracking branch 'origin/hat'
 Merge remote-tracking branch 'origin/boots' into boots_buttons
